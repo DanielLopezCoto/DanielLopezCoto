@@ -1,4 +1,9 @@
-## Hi there 👋
+## About me
+
+- 💻 AI/ML Engineer / Data Scientist
+- 📊 Data Lover
+- 🤖 Technology and Science enthusiast
+- 🔭 Scientific Researcher
 
 <!--
 **DanielLopezCoto/DanielLopezCoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
